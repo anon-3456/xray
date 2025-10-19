@@ -1,0 +1,2930 @@
+[
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00007/study2_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00074/study4_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00074/study4_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00078/study2_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00264/study2_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00293/study3_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00293/study3_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00298/study2_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00321/study2_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00382/study3_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00440/study2_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00440/study2_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00535/study2_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00604/study3_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00604/study3_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00634/study2_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00764/study2_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient00921/study2_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01006/study2_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01006/study2_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01400/study2_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01400/study2_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01412/study2_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01421/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01422/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01424/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01427/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01428/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01429/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01430/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01431/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01431/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01432/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01432/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01433/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01435/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01435/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01436/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01441/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01446/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01447/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01448/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01451/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01453/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01454/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01454/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01456/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01458/study2_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01459/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01461/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01465/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01470/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01471/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01471/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01472/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01477/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01478/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01479/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01480/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01480/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01481/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01485/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01485/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01486/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01488/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01488/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01489/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01489/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01492/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01492/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01496/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01496/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01498/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01499/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01499/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01500/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01501/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01502/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01504/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01506/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01507/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01507/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01508/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01510/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01513/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01516/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01516/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01518/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01519/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01523/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01525/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01526/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01527/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01528/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01529/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01531/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01532/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01533/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01534/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01537/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01539/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01542/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01542/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01543/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01544/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01546/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01547/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01548/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01550/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01556/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01558/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01558/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01559/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01560/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01560/study2_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01562/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01563/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01563/study2_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01565/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01565/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01567/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01569/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01572/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01572/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01573/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01574/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01575/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01579/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01581/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01586/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01589/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01591/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01591/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01592/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01592/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01594/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01596/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01596/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01598/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01600/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01601/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01602/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01603/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01604/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01605/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01606/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01608/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01610/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01611/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01611/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01618/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01622/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01624/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01625/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01625/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01625/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01628/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01628/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01630/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01631/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01633/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01635/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01638/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01638/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01638/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01639/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01640/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01641/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01644/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01646/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01647/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01649/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01649/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01651/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01655/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01665/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01665/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01666/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01666/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01670/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01670/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01671/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01673/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01675/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01675/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01677/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01678/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01678/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01680/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01680/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01680/study2_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01680/study2_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01680/study2_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01681/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01682/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01683/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01686/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01692/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01693/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01697/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01699/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01701/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01703/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01704/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01706/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01706/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01710/study2_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01710/study2_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01712/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01715/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01717/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01718/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01719/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01719/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01720/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01721/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01722/study2_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01724/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01725/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01725/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01728/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01729/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01730/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01732/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01736/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01736/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01737/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01740/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01746/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01746/study1_negative/image5.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01749/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01750/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01751/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01751/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01753/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01754/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01754/study2_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01755/study1_negative/image5.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01756/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01757/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01758/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01759/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01760/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01762/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01763/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01769/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01769/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01770/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01771/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01772/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01772/study2_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01773/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01775/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01777/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01778/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01779/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01779/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01780/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01781/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01782/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01782/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01784/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01784/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01788/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01790/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01792/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01794/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01796/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01797/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01800/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01801/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01805/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01807/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01807/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01810/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01812/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01813/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01816/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01816/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01817/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01824/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01825/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01825/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01828/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01828/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01829/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01831/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01832/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01833/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01834/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01834/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01835/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01837/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01839/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01842/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01843/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01846/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01853/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01855/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01856/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01859/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01861/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01862/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01863/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01863/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01864/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01865/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01866/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01866/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01866/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01867/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01868/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01868/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01870/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01871/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01872/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01874/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01877/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01877/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01882/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01883/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01886/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01886/study1_negative/image5.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01889/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01893/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01896/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01896/study2_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01897/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01899/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01901/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01903/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01906/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01907/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01910/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01910/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01916/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01916/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01917/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01919/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01926/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01929/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01930/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01932/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01933/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01933/study2_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01933/study2_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01935/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01936/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01937/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01938/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01943/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01944/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01945/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01947/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01949/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01950/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01951/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01954/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01956/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01958/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01960/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01960/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01962/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01963/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01965/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01966/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01967/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01969/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01970/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01978/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01979/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01980/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01981/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01982/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01983/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01984/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01988/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01988/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01990/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01992/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01996/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01998/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01998/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient01999/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02001/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02002/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02002/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02004/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02006/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02013/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02014/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02015/study2_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02018/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02019/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02022/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02022/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02023/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02023/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02023/study2_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02024/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02026/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02027/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02028/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02029/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02029/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02032/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02035/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02037/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02041/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02043/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02046/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02047/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02052/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02054/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02058/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02059/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02062/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02062/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02066/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02066/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02067/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02068/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02069/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02069/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02070/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02071/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02071/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02073/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02074/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02074/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02078/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02080/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02082/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02086/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02087/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02087/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02089/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02091/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02091/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02092/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02093/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02096/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02097/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02098/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02102/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02102/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02103/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02104/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02104/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02107/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02108/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02110/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02112/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02112/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02113/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02115/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02115/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02116/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02117/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02118/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02119/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02122/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02125/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02125/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02126/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02128/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02129/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02131/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02134/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02134/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02135/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02136/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02138/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02141/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02141/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02143/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02147/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02148/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02149/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02150/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02150/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02150/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02152/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02153/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02153/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02153/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02155/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02156/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02156/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02158/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02159/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02160/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02163/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02164/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02165/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02166/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02169/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02170/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02170/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02171/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02173/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02175/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02175/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02177/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02178/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02179/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02185/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02186/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02187/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02191/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02193/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02201/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02204/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02205/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02205/study2_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02206/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02212/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02213/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02215/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02215/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02219/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02220/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02223/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02224/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02228/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02229/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02229/study1_negative/image5.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02229/study1_negative/image6.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02233/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02235/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02235/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02236/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02238/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02239/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02239/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02245/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02246/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02247/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02248/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02248/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02249/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02250/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02251/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02252/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02255/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02255/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02260/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02262/study1_negative/image5.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02265/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02266/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02267/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02267/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02268/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02269/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02271/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02272/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02272/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02273/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02273/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02278/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02278/study2_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02279/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02281/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02286/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02288/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02289/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02290/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02291/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02292/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02293/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02293/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02294/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02297/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02298/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02298/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02300/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02303/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02305/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02306/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02306/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02307/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02308/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02308/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02310/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02314/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02316/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02317/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02318/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02319/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02321/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02325/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02325/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02327/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02329/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02330/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02331/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02335/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02338/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02339/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02340/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02343/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02349/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02350/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02350/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02351/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02352/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02352/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02356/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02360/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02364/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02367/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02369/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02372/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02372/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02374/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02375/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02378/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02379/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02380/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02386/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02386/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02389/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02395/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02398/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02400/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02403/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02404/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02404/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02407/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02407/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02410/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02411/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02415/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02417/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02419/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02425/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02426/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02426/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02426/study1_negative/image5.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02428/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02433/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02434/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02434/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02435/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02438/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02439/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02441/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02448/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02448/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02452/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02453/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02460/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02462/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02464/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02471/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02473/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02475/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02475/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02476/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02477/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02478/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02479/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02480/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02480/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02481/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02481/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02484/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02486/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02487/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02488/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02489/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02490/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02495/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02495/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02496/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02502/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02504/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02504/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02509/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02510/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02516/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02516/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02516/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02517/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02519/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02523/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02525/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02527/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02527/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02528/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02530/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02532/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02535/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02537/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02537/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02538/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02541/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02547/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02547/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02550/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02552/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02553/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02553/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02554/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02555/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02556/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02556/study1_negative/image4.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02559/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02559/study1_negative/image4.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02560/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02562/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02563/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02563/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02564/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02566/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02567/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02570/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02572/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02576/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02577/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02578/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02579/study1_negative/image2.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02583/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02585/study1_negative/image2.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02586/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02587/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02588/study1_negative/image1.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02589/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02593/study1_negative/image3.png",
+    "label": 1.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02594/study1_negative/image1.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02595/study1_negative/image3.png",
+    "label": 0.0
+  },
+  {
+    "path": "MURA-v1.1/Negative/train/XR_SHOULDER/patient02601/study1_negative/image1.png",
+    "label": 1.0
+  }
+]
